@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @lolsorry - a Digital Marketing Strategist for a corporate in South Africa.
+- 👀 I’m interested in data science, ecommerce and business analytics
+- 🌱 I’m currently learning Python and SQL
+- 💞️ I’m looking to collaborate on basic Python projects to grow my confidence in the langauge 
+- 📫 How to reach me - shoot me a dm on twitter @l0ls0rry
